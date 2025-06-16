@@ -15,6 +15,7 @@ ALLOWED_EXTENSIONS = {'jpg', 'jpeg', 'png'}
 # ====================
 
 app = Flask(__name__)
+pp.config['MAX_CONTENT_LENGTH'] = 2 * 1024 * 1024  # Limite a 2MB
 
 # --- Configurazione Flask-Mail (Gmail) ---
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
