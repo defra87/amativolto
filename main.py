@@ -191,7 +191,7 @@ Età stimata Face++: {age}
 Genere stimato Face++: {gender}
 Analisi della pelle Face++: {skin_descr}
 
-Fornisci una descrizione estetica dettagliata del suo viso e della pelle. Consiglia come può migliorare la sua skincare quotidiana, usando suggerimenti motivanti. Dì alla persona che è importante prendersi cura della propria pelle ogni giorno e spiega quali sono le problematiche a cui può andare incontro (es. invecchiamento precoce, perdita di luminosità, imperfezioni, ecc) se non si cura la pelle. Dai consigli chiari e gentili. Concludi con una frase motivazionale personalizzata.
+Fornisci una descrizione estetica dettagliata del suo viso e della pelle. Dai una indicazione di età della pelle e che problematiche ha. Consiglia come può migliorare la sua skincare quotidiana, usando suggerimenti motivanti. Dì alla persona che è importante prendersi cura della propria pelle ogni giorno e spiega quali sono le problematiche a cui può andare incontro (es. invecchiamento precoce, perdita di luminosità, imperfezioni, ecc) se non si cura la pelle. Dai consigli chiari e gentili. Concludi con una frase motivazionale personalizzata.
 
 Rispondi in italiano, con tono positivo, affettuoso e professionale.
 """
