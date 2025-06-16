@@ -1,0 +1,4 @@
+flask
+flask_mail
+requests
+openai
