@@ -206,7 +206,7 @@ Rispondi in italiano, con tono positivo, affettuoso e professionale.
                     {"role": "system", "content": "Sei una consulente di bellezza professionale e gentile."},
                     {"role": "user", "content": PROMPT}
                 ],
-                max_tokens=800
+                max_tokens=600
             )
             risposta = response.choices[0].message.content
         except Exception as e:
